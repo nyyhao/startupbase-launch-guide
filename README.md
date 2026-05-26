@@ -1,5 +1,7 @@
 # StartupBase Launch Guide
 
+[![StartupBase Launch Guide](https://statics.startupbase.io/files/0796dabd-4d47-4db7-b55b-6c178ebb5123.png)](https://startupbase.io)
+
 A practical guide to launching your startup on [StartupBase](https://startupbase.io), finding Product Hunt alternatives, and building a repeatable launch system across directories, communities, marketplaces, and press channels.
 
 Use this guide when you are preparing a new startup launch, relaunching after a major update, collecting beta users, or building long-term discovery beyond a single launch day.
